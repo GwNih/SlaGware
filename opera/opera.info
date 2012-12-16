@@ -1,0 +1,8 @@
+PRGNAM="opera"
+VERSION="12.11"
+HOMEPAGE="http://www.opera.com"
+DOWNLOAD="http://get6.opera.com/pub/opera/linux/1211/opera-12.11-1661.i386.linux.tar.xz"
+MD5SUM="b87648e9555e12d4ed8581adb19a1310"
+REQUIRES=""
+MAINTAINER="Gandi Wibowo"
+EMAIL="gandi.wibowo@yahoo.co.id"
