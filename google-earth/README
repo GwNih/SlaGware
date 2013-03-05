@@ -1,0 +1,3 @@
+Sebelum menjalankan aplikasi ini, Hapus file berikut:
+  /etc/fonts/conf.d/65-fonts-persian.conf 
+File ini dapat menyebabkan crash.  

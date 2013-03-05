@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=PlayOnLinux
+Comment=Play Windows Games and Software
+Type=Application
+Exec=playonlinux
+Icon=playonlinux
+Categories=Game;
+Name[fr_FR]=PlayOnLinux
