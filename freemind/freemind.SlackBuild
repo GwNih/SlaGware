@@ -24,7 +24,7 @@
 
 
 PRGNAM=freemind		# replace "appname" with name of program
-VERSION=${VERSION:-1.0.0_RC_2}	# replace with version of program
+VERSION=${VERSION:-1.0.0_RC_4}	# replace with version of program
 BUILD=${BUILD:-1}
 TAG=${TAG:-_Gw}			# Gandi Wibowo's initial
 
