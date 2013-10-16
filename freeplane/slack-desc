@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+         |-----handy-ruler------------------------------------------------------|
+freeplane: freeplane (free mind-mapping)
+freeplane:
+freeplane: Freeplane is a free and open source software application that 
+freeplane: supports thinking, sharing information and getting things done 
+freeplane: at work, in school and at home. 
+freeplane: The core of the software is tools for mind mapping (also known as 
+freeplane: concept mapping or information mapping) and using mapped information.
+freeplane:
+freeplane: http://freeplane.sourceforge.net/wiki/index.php/Main_Page
+freeplane:
+freeplane:

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Exec=freeplane
+TryExec=freeplane
+Icon=freeplane
+Terminal=false
+Name=Freeplane
+GenericName=Freeplane
+Comment=Mind Mapping Tool
+Categories=Office;
+Type=Application
+MimeType=application/x-freeplane;
+StartupNotify=true
